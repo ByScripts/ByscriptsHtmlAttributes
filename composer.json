@@ -1,6 +1,6 @@
 {
     "name": "byscripts/html-attributes",
-    "description": "A trait for fhtml attributes/class management",
+    "description": "A trait to add html attributes management",
     "license": "MIT",
     "authors": [
         {
@@ -16,5 +16,4 @@
             "Byscripts\\HtmlAttributes\\": "src/"
         }
     },
-
 }
